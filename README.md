@@ -18,7 +18,7 @@ ___
 - Go to http://localhost:8080/actuator/health
 
 
-#Architecture
+# Architecture
 
 For the development of the API, a hexagonal architecture was chosen, with adapters and ports, to keep coupling to a minimum.
 
